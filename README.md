@@ -1,7 +1,7 @@
 # Implement a banking scoring model
 Develop a credit default risk prediction model 
 
-Test different supervided learning models like RandomForest, XGboost, LightGBM ... 
+Test different supervised learning models like RandomForest, XGboost, LightGBM ... 
 
 Handle imbalanced dataset with Sample Weights and SMOTE
 
