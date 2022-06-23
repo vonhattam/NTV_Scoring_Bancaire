@@ -5,7 +5,7 @@ Test different supervised learning models like RandomForest, XGboost, LightGBM .
 
 Handle imbalanced dataset with Sample Weights and SMOTE
 
-Use a specific metric adapted to the banking bussiness problem
+Use a specific metric adapted to the banking business problem
 
 Deploy prediction model as API using FlaskAPI: https://ntv-api.herokuapp.com
 
